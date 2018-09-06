@@ -1,6 +1,6 @@
 body{
 
-	height: 1000 px;
+	
 	
 	background-image: url("https://images.homedepot-static.com/productImages/be88c0b9-511c-447c-9ff8-15502109fbd5/svn/black-cabinet-frame-with-clarified-drawers-akro-mils-small-parts-organizers-10164-40_1000.jpg"
      );
@@ -8,6 +8,9 @@ body{
     background-attachment: fixed;
     background-position: center; 
     background-size: 2000px 1500px;
+  
 
   
 }
+h3 { color: white;}
+p{text-align: center;}
